@@ -1,0 +1,36 @@
+---
+0.0.1.a actionpack:~> 3.1.0.rc1,opal:>= 0,railties:~> 3.1.0.rc1,sprockets:>= 2.0.0.beta.9|checksum:15//IkJmpoIf4yVJpz9MiS94RUcDkE0FXaPtsN/LBvI=,rubygems:> 1.3.1
+0.0.2 opal:= 0.3.18,railties:~> 3.2.0,sprockets:~> 2.1|checksum:OHmpF4njVrkQq9J+BfOOM/6tDMRe1VMFVeOPqcRalto=
+0.0.3 opal:= 0.3.18,railties:~> 3.2.0,sprockets:~> 2.1|checksum:RCuQXUd3JJQX5IPrAJ72/KVOfx5HLlYzfm7RuYixlvc=
+0.0.4 opal:= 0.3.19,railties:~> 3.2.0,sprockets:~> 2.1|checksum:kMUw9ESOx5UyUTBQwkSgkR9zLYJxX+OAbFjGdPcWp9w=
+0.0.5 opal:= 0.3.20,railties:~> 3.2.0,sprockets:~> 2.1|checksum:UP99tbcRyK3mX6a9ipdjLTABhOtOepasKCdDUBRHg7Y=
+0.0.6 opal:= 0.3.20,railties:~> 3.2.0,sprockets:~> 2.1|checksum:sDuulbajDxmMYeGH3SItCxkLHcvkfwj+dEGLXILd52g=
+0.1.0 opal:= 0.3.20,railties:~> 3.2.0,sprockets:~> 2.1|checksum:hrZFv0TDJLKGK3c1gs2gjHFH4Mu8mT4yxuzRgy/ORec=
+0.2.0 opal:= 0.3.22,rails:~> 3.2.0|checksum:yh7lXw7Q8bdzvlHHRuS38KaCxdD2IIa6wmpf0fbTFlE=
+0.2.1 opal:= 0.3.22,rails:~> 3.2.0|checksum:0lx+sy4W6Kpd5z2kc3NDCUlf6PWVu9SUed07egkD8AY=
+0.3.0 opal:= 0.3.27,rails:~> 3.2.0|checksum:yFsexNEw8JNcjzCxwQ2tTbect8amC2RoxBH709rOUZI=
+0.3.1 opal:= 0.3.27,rails:~> 3.2.0|checksum:Sx3t59+8Q8wuXFUWSuK7HTbClllGzSKXir/s5YYu43A=
+0.3.2 opal:= 0.3.29,rails:~> 3.2.0|checksum:8VNa6gkVAXQqGT7axYfnTscu5nF9C+4dQSf2gRtfW+I=
+0.3.3 opal:= 0.3.29,rails:~> 3.2.0|checksum:5EwHJ+big7FHUd0VufGxy5Y3ng3kXRGyp8gHWvOmDmA=
+0.3.4 jquery-rails:>= 0,opal:~> 0.3.36,opal-jquery:>= 0.0.5,opal-spec:>= 0.2.8,rails:~> 3.2.0|checksum:A5oeWo/LyuNHAl/AdppJNH6yQzeqJQveTVLijjDko2Y=
+0.3.5 jquery-rails:>= 0,opal:~> 0.3.36,opal-jquery:>= 0.0.5,opal-spec:>= 0.2.8,rails:~> 3.2.0|checksum:zV0w5raZhYC4qHib+mNNSqAiLkWvNr9rNMjieRK190w=
+0.3.6 jquery-rails:>= 0,opal:~> 0.3.42,opal-jquery:>= 0.0.5,opal-spec:>= 0.2.8,opal-sprockets:>= 0,rails:~> 3.2.0|checksum:6yHs/sj074I/zVKnbQ1CYANjb/fGQ/MPRL82fBRBEqM=
+0.3.7 jquery-rails:>= 0,opal:~> 0.3.43,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:LQ2IlkySs3UwIKarBrWDiS3mu8jun24sF1Ke7X0N4Ys=
+0.3.8 jquery-rails:>= 0,opal:~> 0.3.43,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:aq7/8Neu6QNzgQ6hJ2vP9FTQa4L1NlqKmlSGklk4YgQ=
+0.4.0 jquery-rails:>= 0,opal:~> 0.3.43,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:q9vHpW22+9s2+FgAXuNsFO7d0LiB3C07adwqhvqGMSY=
+0.5.0.pre jquery-rails:>= 0,opal:~> 0.4.1,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:nd26gc/woXeOsYuaVx7FGB7/VJoFTfn5UPf+KRl5O3Q=,rubygems:> 1.3.1
+0.5.0.pre.2 jquery-rails:>= 0,opal:~> 0.4.1,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:HcgIRkxkCyO/iBC5ZtR7mFTeK6fccWpDKrNqROyhzHQ=,rubygems:> 1.3.1
+0.5.0 jquery-rails:>= 0,opal:~> 0.4.1,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:8mzXKdG0BLoNcKJI8Nua0jwUufkEfUovClvutSgl3TE=
+0.5.1 jquery-rails:>= 0,opal:~> 0.4.1,opal-jquery:>= 0.0.8,opal-spec:>= 0.2.15,rails:< 5.0&>= 3.2.13|checksum:5JdUedoE6MbnNzsqYfqScgOzLf2If95BnTfsp7yH1Qw=
+0.5.2 jquery-rails:>= 0,opal:~> 0.4.4,opal-activesupport:>= 0,opal-jquery:>= 0.0.8,opal-spec:~> 0.3.1,opal-sprockets:~> 0.2.0,rails:< 5.0&>= 3.2.13|checksum:AhbFNlhSR/1FfDWuskig/fe5iBgdfV5DLlQDUlBX8qU=
+0.6.0 jquery-rails:>= 0,opal:~> 0.5.0,opal-activesupport:>= 0.0.5,opal-jquery:>= 0.1.0,opal-rspec:>= 0,opal-sprockets:~> 0.3.0,rails:< 5.0&>= 3.2.13|checksum:pbgtM5IaIbg4IP4T1UbLRW7d5Zezj7jLN+lt76GyB3U=
+0.6.1 jquery-rails:>= 0,opal:~> 0.5.0,opal-activesupport:>= 0.0.5,opal-jquery:>= 0.1.0,opal-rspec:>= 0,opal-sprockets:~> 0.3.0,rails:< 5.0&>= 3.2.13|checksum:9pUW1EBnx+KTuHfctp4kapdu2iQgZZDO/PjONukbAVI=
+0.6.2 jquery-rails:>= 0,opal:~> 0.5.0,opal-activesupport:>= 0.0.5,opal-jquery:>= 0.1.0,opal-rspec:>= 0,opal-sprockets:~> 0.3.0,rails:< 5.0&>= 3.2.13|checksum:6/6WakJZwU4a/zLJyjYZvRaGXKLtTzU84DN/J2MahlU=
+0.6.3 jquery-rails:>= 0,opal:~> 0.6.0,opal-activesupport:>= 0.0.5,opal-jquery:>= 0.1.0,opal-rspec:~> 0.3.0.beta1,rails:< 5.0&>= 3.2.13|checksum:dmzjZ/mCiGmwaFpm0GVBQMX7D9ScN886fw5lygelPlI=
+0.7.0.beta1 jquery-rails:>= 0,opal:~> 0.7.0.beta1,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.3.0.beta1,opal-rspec:~> 0.4.0.beta3,rails:< 5.0&>= 3.2|checksum:va2WRQm29Ary/l8vHoUhwxTCaZLxRz+HHWbtQvQouKY=,ruby:>= 0,rubygems:> 1.3.1
+0.7.0.beta2 jquery-rails:>= 0,opal:~> 0.7.0.beta1,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.3.0.beta1,opal-rspec:~> 0.4.0.beta4,rails:< 5.0&>= 3.2|checksum:L8YC2GfHLLnCMQN+HoDKqXTe4ZsovZ5R9zL5y35bmHY=,ruby:>= 0,rubygems:> 1.3.1
+0.7.0 jquery-rails:>= 0,opal:~> 0.7.0,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.3.0.beta1,opal-rspec:~> 0.4.0,rails:< 5.0&>= 3.2|checksum:Bvmll0YsYio+XJGIhOpEzy1DXmqz15MoQEBTiynlojQ=,ruby:>= 0
+0.8.0.rc1 jquery-rails:>= 0,opal:~> 0.8.0.rc,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.3.0,opal-rspec:~> 0.4.2,rails:< 5.0&>= 3.2|checksum:MIGeLrTSDDvoLsiy5XptaNd1Ejps1KYGeIeM70MsnC0=,ruby:>= 0,rubygems:> 1.3.1
+0.8.0 jquery-rails:>= 0,opal:~> 0.8.0,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.4.0,opal-rspec:~> 0.4.3,rails:< 5.0&>= 3.2|checksum:ERlnyNDGfsSN8ZlG7Os0KkVBqHZMbchH8AVCsWPGUx8=,ruby:>= 0
+0.8.1 jquery-rails:>= 0,opal:~> 0.8.0,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.4.0,opal-rspec:~> 0.4.3,rails:< 5.0&>= 3.2,sprockets-rails:< 3.0|checksum:
+0.9.0 jquery-rails:>= 0,opal:< 0.11&>= 0.8.0,opal-activesupport:>= 0.0.5,opal-jquery:~> 0.4.0,rails:< 6.0&>= 4.0,sprockets-rails:< 3.0|checksum:84e0be4e7078fdd327cbdff28b88f15be42c5cf14b1a060dfcebb42ea480c91d,ruby:>= 0,rubygems:>= 0

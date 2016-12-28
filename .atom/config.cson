@@ -1,0 +1,18 @@
+"*":
+  core:
+    disabledPackages: [
+      "symbols-view"
+    ]
+  editor:
+    fontSize: 17
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "930597f7-fe94-0566-7bde-eee00653ab62"
+  "japanese-wrap":
+    characterWidth: {}
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,4 @@
+---
+0.1.0.beta1 opal:>= 0.5.5,paggio:>= 0|checksum:89gtpHiUoqVIt/7DueWGdl7+EB1YZh3rFZAX+QrQdNk=,rubygems:> 1.3.1
+0.2.0.beta1 opal:~> 0.6.0,paggio:>= 0|checksum:G+EOosR0teKTkkZH+V88OaX5JxDd1gJKi8qsYraHq0E=,rubygems:> 1.3.1
+0.2.0 opal:>= 0,paggio:>= 0|checksum:78k5blt13cHhGbrLd12MLYZ7BcklrS2nW44JY9PTiIo=,ruby:>= 0

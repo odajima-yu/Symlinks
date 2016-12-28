@@ -1,0 +1,98 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Yu Odajima
+	email = yu.odajima@skym.co.jp
+
+[github]
+	user = yu-odajima
+
+[gui]
+	encoding = utf-8
+
+[alias]
+	df             = diff
+	dfc            = diff --cached
+	fetch-prune    = fetch --prune
+	delete-branch  = branch -d
+	network        = log --graph --all --decorate --oneline
+	onelog         = log --oneline
+	grp            = grep --heading --break
+	cpick          = cherry-pick
+  st             = status
+	co             = checkout
+	ci             = commit -v
+
+[color]
+	branch       = true
+	diff         = true
+	grep         = true
+	interactive  = true
+	pager        = true
+	status       = true
+
+[color "branch"]
+	current = green reverse
+	local   = green
+	remote  = yellow
+
+[color "status"]
+	changed   = green
+	untracked = cyan
+	updated   = yellow
+
+[color "grep"]
+	filename   = cyan
+	function   = yellow
+	linenumber = yellow
+	match      = yellow reverse
+
+[color "interactive"]
+	# prompt
+	# header
+	# help
+	# error
+
+[push]
+	default = simple
+
+[i18n]
+	commitencoding = utf-8
+
+[core]
+	quotepath = false
+	whitespace = cr-at-eol
+	pager = $PAGER
+	precomposeunicode = true
+	excludesfile = ~/.global.gitignore
+
+[branch]
+	autosetuprebase = always
+
+[grep]
+	lineNumber = true
+	patternType = perl
+
+[rebase]
+	stat = true
+
+[diff]
+	algorithm = histogram
+
+[diff "ruby"]
+	funcname = =
+
+[diff "perl"]
+	funcname = =
+
+[diff "gzip"]
+	textconv = gzcat
+
+[log]
+	date = iso
+  pretty = format:"[%ad] %h %an : %s"
+
+[pager]
+	log  = diff-highlight | less
+	show = diff-highlight | less
+	diff = diff-highlight | less
+	grep = false

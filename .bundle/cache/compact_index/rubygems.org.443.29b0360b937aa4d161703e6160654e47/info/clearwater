@@ -1,0 +1,13 @@
+---
+0.1.0 opal:~> 0.7.0,opal-browser:>= 0|checksum:Ztt4jzx8qBZFGCHWVI1mEOt/C64V/Eac98+AN+X9Kfc=,ruby:>= 0
+0.1.1 opal:~> 0.7,opal-browser:>= 0|checksum:
+0.1.2 opal:~> 0.7,opal-browser:>= 0|checksum:
+0.2.0 opal:~> 0.7,opal-browser:>= 0|checksum:
+0.3.0 opal:~> 0.7,opal-browser:>= 0|checksum:
+0.3.1 opal:~> 0.7,opal-browser:>= 0|checksum:
+1.0.0.beta1 bowser:~> 0.1.2,opal:~> 0.7|checksum:1474ff8833ded125b68f444e8f3a3b0ae03341cb2d261b786e945c8022ed04a6,ruby:>= 0,rubygems:> 1.3.1
+1.0.0.beta2 bowser:~> 0.1.2,opal:~> 0.7|checksum:b2dee39fb4ed45e8a05fb734fadcf64585edaef0182d8dab2d93bdf1af0e1d25,ruby:>= 0,rubygems:> 1.3.1
+1.0.0.beta3 bowser:~> 0.1.2,opal:~> 0.7|checksum:e0532c8472135d5a9a71df407fe97c74333512330565e9694370c2f2007986d2,ruby:>= 0,rubygems:> 1.3.1
+1.0.0.beta4 bowser:~> 0.1.2,opal:~> 0.7|checksum:d74166f3bb6871765f941014a71b10054851cf6b65a1f84a01c3e84c682ffb26,ruby:>= 0,rubygems:> 1.3.1
+1.0.0.beta5 bowser:~> 0.1.2,opal:~> 0.7|checksum:9757e7063cc323b27d5038a491cc9bc113e30e97b744c849aa865dacbbdb9938,ruby:>= 0,rubygems:> 1.3.1
+1.0.0.rc1 bowser:~> 0.1.5,opal:~> 0.7|checksum:7e5707a60d3476f5903a2388d2b0c986b378b3632d7831601eef9a7e28b94400,ruby:>= 0,rubygems:> 1.3.1

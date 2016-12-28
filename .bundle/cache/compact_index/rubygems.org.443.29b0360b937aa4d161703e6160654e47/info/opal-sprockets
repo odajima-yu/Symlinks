@@ -1,0 +1,7 @@
+---
+0.0.1 sprockets:>= 0|checksum:vx5PBEconJdYbKj0v8MdbUgMtcbdoxBHpSzVDhz5N44=
+0.1.0 opal:~> 0.4.0,sprockets:>= 0|checksum:8LgmJE3z+9Ri2VN4PlWzN45ysch7ikryfx1gpqPCi7Q=
+0.1.1 opal:~> 0.4.0,sprockets:>= 0|checksum:5oO9gN416BOd67V4wti/0IdX1rUY1ZYpALk8jAhPON0=
+0.2.0 opal:~> 0.4.4,sprockets:>= 0|checksum:zJZtD3jOlXB96zhxQvnBPhcOnsny0jnux1x6zZ06tcQ=
+0.2.1 opal:~> 0.4.4,sprockets:>= 0|checksum:BoOmisSS3pMOr1HCKDVfnSWLLxEHCYTKlfl59nhWbY8=
+0.3.0 opal:~> 0.5.0,sprockets:>= 0|checksum:O32Q8LTIwzefBf/A5zSFJ7knMatRGkfLL2g1XN/BWl8=

@@ -1,0 +1,6 @@
+---
+0.0.1 opal:~> 0.6.2,rake:~> 10.3.2|checksum:fOwo6KMv19i4VQtvNPVOPMwosVvq2SLRsjPsOWk3SRc=,ruby:>= 0
+0.0.2 opal:>= 0.6,rake:~> 10.3|checksum:sPYJRMGSHRBNvJ5hE+oyxKlnw16jQGXwO4X5ECztPDI=,ruby:>= 0
+0.0.3 opal:>= 0.6,rake:~> 10.3|checksum:aXlD+gr1mEeVMXfuWMfmwCaB8NffonAUf1gcIwTOF7s=,ruby:>= 0
+0.0.4 opal:>= 0.6,rake:~> 10.3|checksum:+jPhoh0+DUmk4Fy5KSs2cwLXZtVHQXeMGy27do/cER4=,ruby:>= 0
+0.0.5 opal:>= 0.8,rake:~> 10|checksum:

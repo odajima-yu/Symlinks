@@ -1,0 +1,38 @@
+---
+0.0.1 |checksum:rIVZS+87C/4OIQ6ivhehqy6dZI/jwSOqzVODkr4610c=
+0.3.0 sprockets:~> 2.0|checksum:vgos2Keep2+TvRZ1k+Z0LoYUq64Zauo5QNo7OyHHugg=,ruby:>= 0
+0.3.1 sprockets:~> 2.0|checksum:IGnWzfb4/xamYQu1Ds55WX0n81vc/8teq4wy/h5B5KA=,ruby:>= 0
+0.4.1 sprockets:~> 2.0|checksum:sx/q9prDddAotPtCrzalqY93mOIp2XWIPE7ayXSn4Ng=,ruby:>= 0
+0.4.2 sprockets:~> 2.0|checksum:/ZjcAgvGRsRCDsjkViUxDsktHB1SARG35cyQ2wI5tnY=,ruby:>= 0
+0.5.0 sprockets:~> 2.0|checksum:Ra8Uhcjoi6hVtzrzN0x0IXj6ynXNAhvlYh6cXbYSZQE=,ruby:>= 0
+0.5.1 sprockets:~> 2.0|checksum:9I2XjuyITOlzZ2LFvKbDJasR2mzNthMGpvai7FrjJnY=,ruby:>= 0
+0.6.0 sprockets:~> 2.0|checksum:Lqgo2GKH3oPD1sB3t2Ct9G3Tpg4nNPsBvPeNHDE5LUc=,ruby:>= 0
+0.7.1 sprockets:~> 2.0|checksum:mw0pgCjWBEqf4CGkTojdeQW3pYJtv8iMGrqVvE8mBwA=,ruby:>= 0
+0.7.2 sprockets:~> 2.0|checksum:0Pllj6pYnccwcg31QT/cMhCtZgwWt8ngKeZenxukYKo=,ruby:>= 0
+0.7.3 sprockets:~> 2.0|checksum:6tSjyYWthUh9ej43omIwrtr8LFhpd7TOGXio/gutyDo=,ruby:>= 0
+0.7.4 sprockets:~> 2.0|checksum:342tuUdbCrusKgUb9Pvg/Yu1X0mG7iRqFjgmmXozg4U=,ruby:>= 0
+0.7.5 sprockets:~> 2.0|checksum:3Y7SP6TP/mWI/fXSXbwKFLtV0p123EByb1mjZGLEfoc=,ruby:>= 0
+0.8.0 sprockets:~> 2.0|checksum:EiXy9yDNom30tIQwVgaIFnYr2n5/G7xksbfGyuZ4Lwo=,ruby:>= 0
+0.8.1 sprockets:~> 2.0|checksum:R8UqD3YmE7xYJ3vijq8Z92zQi7VRBh8xg1Qv/j+7GXk=,ruby:>= 0
+0.8.2 sprockets:~> 2.0|checksum:8gzukRYmVXH3pMlO6iMtgDOKnvAlztO0m1iHKFs8BzI=,ruby:>= 0
+0.8.3 sprockets:~> 2.0|checksum:dR9QIu0l3znnw1IS0gb1oBaRv6UbAT+q0PpzkuJYBuU=,ruby:>= 0
+0.9.0 sprockets:~> 2.2|checksum:lgH3TWrH+TriFHOjBFzxp+tT7h1BA6lg2K2+gbqD3dU=,ruby:>= 0
+0.9.1 sprockets:~> 2.2|checksum:h1K/+7nntVMJv3ggIe+SS30PPXzPcakjU2I9H7LDBbs=,ruby:>= 0
+0.9.3 sprockets:~> 2.2|checksum:kjREyaUEQv+ycX+rctJVXg+D9Gw+3o/vdrNEY6NaCVE=,ruby:>= 0
+1.0.0b railties:< 5.0&>= 4.0.0|checksum:tQVhVyHd2FAKPAhhaPUTQb5Ioo7E29mgFOOGN5sI3qw=,ruby:>= 0,rubygems:> 1.3.1
+1.0.0 railties:< 5.0&>= 4.0.0|checksum:7ygXgy6GOUy4wJnck3jJ7uZJp4A+8p/Ccc1B7sOpmm4=,ruby:>= 0
+1.0.1 railties:< 5.0&>= 4.0.0|checksum:Y87vrVUgemAc8oqJiLfqm6By4Lmjx4135RVRFj/OtYg=,ruby:>= 0
+1.0.2 railties:< 5.0&>= 4.0.0|checksum:0dmLBXqor3ilpYJM5ywX3iYzaM7XnBvNz8I/k8FO1iE=,ruby:>= 0
+1.1.0 railties:< 5.0&>= 4.0.0|checksum:vswJAU9AbFfCqzWulQTjZkFuvHBNj06ws4e8Awf2VlQ=,ruby:>= 0
+1.2.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:thSGNN/d+vgsvlGKZQFRSj0DrDZlIy96Owwd+wSD5ZQ=,ruby:>= 0
+1.3.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2,tilt:>= 2.0.1|checksum:
+1.4.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2,tilt:< 3&>= 1.1|checksum:
+1.5.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2,tilt:< 3&>= 1.1|checksum:
+2.0.2 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:
+2.0.3 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:
+2.1.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:
+2.2.0 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:d942a31c67e2fc55e7581f715049366d38dce25b6db9df9daf750776474063ca,ruby:>= 0,rubygems:>= 0
+2.2.1 railties:< 5.0&>= 4.0.0,sprockets:> 3.0.2|checksum:29c64ee05e756cc3edccd50b9375619c81ec0f1e64720db8fa85e1036d493836,ruby:>= 0,rubygems:>= 0
+3.0.0 railties:< 5.0&>= 4.0.0,sprockets:>= 3.5.2|checksum:024d04e831a9b91b878ab867b20ddc9364d0b79d22deec52f251ed19504440cb,ruby:>= 0,rubygems:>= 0
+3.0.1 railties:< 5.0&>= 4.0.0,sprockets:>= 3.5.2|checksum:8131cb63dc758a090fa2b9d5cca0121df842d7c58a6c8dde1e86567b7ce2942c,ruby:>= 0,rubygems:>= 0
+3.1.0 railties:< 5.1&>= 4.0.0,sprockets:>= 3.5.2|checksum:8dfb6e321e2fb5e7e07f471f99486871854bddb6c4b089fb4e2a2ac57875266f,ruby:>= 0,rubygems:>= 0

@@ -1,0 +1,12 @@
+---
+0.1.1 rails:>= 3.1.0|checksum:FxkvOB8xA5x3V8wy8RaEHmeTyJ9DPiv7q3mK0g4Hdeg=
+0.2.0 rails:>= 3.1.0|checksum:LSrh1fQ6IBrVr/SSbDF6F20X3Cbcb0P4eqKMv9BZkSI=
+0.2.1 rails:>= 3.1.0|checksum:/o2Jgg/+Bm1qj/ka/N92vH0mUesXDbMMkfjRzKpAqAY=
+1.0.0.rc rails:>= 3.1.0,turbolinks:>= 0|checksum:n9jtv5aV+ADbUMFHsmu/ICIu818ByfTPqWQVdcaqXFQ=,rubygems:> 1.3.1
+1.0.0.rc1 rails:>= 3.1.0,turbolinks:>= 0|checksum:1XtVHjOgHQuivp0V3UI0+aJC8kxT6rasymq2bMYvBNs=,rubygems:> 1.3.1
+1.0.0.rc2 railties:>= 3.1.0,turbolinks:>= 0|checksum:y7lY65slviJhKavpQDamPVV5q2L1LZC9I52l9laABKU=,rubygems:> 1.3.1
+1.0.0 railties:>= 3.1.0,turbolinks:>= 0|checksum:hul5sdlsrPiLU2oIzZTLQ3i0DKf7YGv7TiP9baZhFJM=
+2.0.0 railties:>= 3.1.0,turbolinks:>= 0|checksum:Q157J+n1fmNqdFp7QnA5D7zU6OQNJv/6AFhVQJsxQ6Y=
+2.0.1 railties:>= 3.1.0,turbolinks:>= 0|checksum:bZqCpE3fZS90thgeWJKGDNvaPwAOsUl/qR49wJjZyjQ=
+2.0.2 railties:>= 3.1.0,turbolinks:>= 0|checksum:A6veI2EiXve9UjOJiC6SftH9BS7ay1WUHXhm+025kd4=
+2.1.0 railties:>= 3.1.0,turbolinks:>= 0|checksum:DPaDJfALzBp5vcmR25FGzUzWo9jeEx5/mlU9OqitQ7Q=,ruby:>= 0
